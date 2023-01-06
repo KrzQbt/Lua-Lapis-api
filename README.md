@@ -1,0 +1,1 @@
+Lapis Lua app contains basic endpoints for products and categories. DB access done with lapis.db.model
